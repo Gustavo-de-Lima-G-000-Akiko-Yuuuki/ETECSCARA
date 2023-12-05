@@ -1,8 +1,12 @@
 # ETECSCARA
 
-![Imagem do Braço Robótico SCARA](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/ETECSCARA/blob/main/Imagem%20teste%201.jpg)
-![Outra Imagem do Braço Robótico SCARA](https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/ETECSCARA/blob/main/Imagem2.jpg)
+<p float="left">
+  <img src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/ETECSCARA/blob/main/Imagem%20teste%201.jpg" width="400" />
+  <img src="https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/ETECSCARA/blob/main/Imagem2.jpg" width="400" /> 
+</p>
 
+**Software desenvolvido em c# forms (https://github.com/Gustavo-de-Lima-G-000-Akiko-Yuuuki/ETECSCARA/blob/main/ETECSCARA.7z)
+Open souce&*
 ***
 TCC ETECSCARA: braço robótico para instituições de Ensino Técnico (https://drive.google.com/file/d/1BSILDpgo3FsvJe1oRW0bS7-OIOeCSKb3/view?usp=sharing)
 ## GRBL e Braço Robótico SCARA
